@@ -4,7 +4,6 @@
   "main": "eddy-x.js",
   "ignore": [
     "**/.*",
-    "readme.md",
-    "package.json"
+    "readme.md"
   ]
 }
